@@ -1,12 +1,13 @@
 {
-  "name": "REPLACE_ME",
-  "private": true,
-  "version": "0.0.0",
+  "name": "stratis-icons",
+  "private": false,
+  "version": "1.0.1",
   "type": "module",
+  "main": "index.mjs",
   "scripts": {
-    "dev": "npm run transform-icons && vite",
+    "dev": "npm run vite",
     "build": "npm run build:lib && vite build",
-    "build:lib": "npm run transform-icons && npm run copy-library-assets",
+    "build:lib": "npm run copy-library-assets",
     "preview": "npm run build && vite preview",
     "transform-icons": "svg-to-ts-files",
     "copy-library-assets": "cpx package.json dist/icons && cpx README.md dist/icons"
@@ -18,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kreuzerk/svg-icon-library-starter.git"
+    "url": "git+https://github.com/RaymondHolm26/stratis-ui-icons.git"
   },
   "keywords": [
     "SVG",
@@ -26,10 +27,10 @@
     "library",
     "starter"
   ],
-  "author": "Kevin Kreuzer",
-  "license": "ISC",
+  "author": "Raymond Holm",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kreuzerk/svg-icon-library-starter/issues"
+    "url": "https://github.com/RaymondHolm26/stratis-ui-icons/issues"
   },
-  "homepage": "https://github.com/kreuzerk/svg-icon-library-starter#readme"
+  "homepage": "https://github.com/RaymondHolm26/stratis-ui-icons#readme"
 }
