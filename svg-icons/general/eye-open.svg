@@ -1,3 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg"  fill="none" viewBox="0 0 24 24">
-  <path stroke="#000" stroke-width="2" d="M14.4 12.03c0 1.29-1.075 2.335-2.4 2.335s-2.4-1.046-2.4-2.336c0-1.29 1.075-2.335 2.4-2.335s2.4 1.046 2.4 2.335Z"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+     fill="currentColor"
+     viewBox="0 0 24 24">
+    <path stroke="currentColor"
+          stroke-width="2"
+          d="M14.4 12.03c0 1.29-1.075 2.335-2.4 2.335s-2.4-1.046-2.4-2.336c0-1.29 1.075-2.335 2.4-2.335s2.4 1.046 2.4 2.335Z" />
 </svg>

@@ -1,3 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg"  fill="none" viewBox="0 0 24 24">
-  <path stroke="#000" stroke-linecap="round" stroke-width="2" d="M8.7 9.918v3.688a3.3 3.3 0 0 0 6.6 0V8.947a1.747 1.747 0 0 0-3.493 0v4.465M6.6 2.4h10.8a2.4 2.4 0 0 1 2.4 2.4v14.4a2.4 2.4 0 0 1-2.4 2.4H6.6a2.4 2.4 0 0 1-2.4-2.4V4.8a2.4 2.4 0 0 1 2.4-2.4Z"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+     fill="currentColor"
+     viewBox="0 0 24 24">
+    <path stroke="currentColor"
+          stroke-linecap="round"
+          stroke-width="2"
+          d="M8.7 9.918v3.688a3.3 3.3 0 0 0 6.6 0V8.947a1.747 1.747 0 0 0-3.493 0v4.465M6.6 2.4h10.8a2.4 2.4 0 0 1 2.4 2.4v14.4a2.4 2.4 0 0 1-2.4 2.4H6.6a2.4 2.4 0 0 1-2.4-2.4V4.8a2.4 2.4 0 0 1 2.4-2.4Z" />
 </svg>

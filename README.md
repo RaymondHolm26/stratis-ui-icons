@@ -1,4 +1,4 @@
-# [stratis-icons library](https://github.com/RaymondHolm26/stratis-ui-icons)
+# [stratis-ui-icons](https://github.com/RaymondHolm26/stratis-ui-icons)
 
 This icon library was inspired by the strati-ui icons figma design file.
 
@@ -12,7 +12,7 @@ To consum the icon library in *ES6* you can import icons from your library, crea
 
 ```javascript
 // Import the icon from the icon library
-import {stratisIconSmilingFace} from 'stratis-icons';
+import { suIconSmilingFace } from 'stratis-ui-icons';
 
 // Query the element that you want to append the icon to
 const conatiner = document.getElementById('.container');
@@ -39,13 +39,13 @@ The *TypeScript* usage is very similar to the *JavaScript* usage. The only diffe
 
 ```typescript
 // Import the icon from the icon library
-import {stratisIconSmilingFace, StratisIcon} from 'stratis-icons';
+import { suIconSmilingFace, StratisUiIcon } from 'stratis-ui-icons';
 
 // Query the element that you want to append the icon to
 const conatiner = document.getElementById('.container');
 
 // Create a new svg element and apply the icon data to it
-function buildSVGElement(icon: StratisIcon): SVGElement {
+function buildSVGElement(icon: StratisUiIcon): SVGElement {
     const div = document.createElement('DIV');
     div.innerHTML = icon.data;
     return (

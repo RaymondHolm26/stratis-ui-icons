@@ -1,3 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 25 24">
-  <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m13.582 13.311 7.068 7.09m-7.46-7.484 5.602-1.843c1.05-.345 1.055-1.831.008-2.269L5.488 3.7a1.167 1.167 0 0 0-1.55 1.515l4.83 13.708c.41 1.059 1.892 1.091 2.264.049l2.158-6.054Z"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+     fill="currentColor"
+     viewBox="0 0 25 24">
+    <path stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="m13.582 13.311 7.068 7.09m-7.46-7.484 5.602-1.843c1.05-.345 1.055-1.831.008-2.269L5.488 3.7a1.167 1.167 0 0 0-1.55 1.515l4.83 13.708c.41 1.059 1.892 1.091 2.264.049l2.158-6.054Z" />
 </svg>

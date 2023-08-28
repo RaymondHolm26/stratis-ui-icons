@@ -4,12 +4,16 @@
       "./svg-icons/**/*.svg"
     ],
     "outputDirectory": "./dist/icons",
-    "interfaceName": "stratis",
-    "typeName": "stratis",
-    "prefix": "stratis",
+    "interfaceName": "StratisUiIcon",
+    "typeName": "stratisUiIcon",
+    "prefix": "su",
+    "fileName": "stratis-ui-icon.model",
+    "modelFileName": "icons",
     "generateType": true,
     "exportCompleteIconSet": true,
     "optimizeForLazyLoading": true,
-    "modelFileName": "stratis.model",
-    "compileSources": true
+    "compileSources": true,
+    "generateTypeObject": false,
+    "iconsFolderName": "build",
+    "barrelFileName": "index"
 }

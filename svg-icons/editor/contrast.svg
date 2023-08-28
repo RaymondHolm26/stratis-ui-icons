@@ -1,4 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg"  fill="none" viewBox="0 0 24 24">
-  <path stroke="#000" stroke-width="2" d="M2.4 12a9.6 9.6 0 1 1 19.2 0 9.6 9.6 0 0 1-19.2 0Z"/>
-  <path stroke="#000" stroke-width="2" d="M18 12.5v-1A5.5 5.5 0 0 0 12.5 6a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5 5.5 5.5 0 0 0 5.5-5.5Z"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+     fill="currentColor"
+     viewBox="0 0 24 24">
+    <path stroke="currentColor"
+          stroke-width="2"
+          d="M2.4 12a9.6 9.6 0 1 1 19.2 0 9.6 9.6 0 0 1-19.2 0Z" />
+    <path stroke="currentColor"
+          stroke-width="2"
+          d="M18 12.5v-1A5.5 5.5 0 0 0 12.5 6a.5.5 0 0 0-.5.5v11a.5.5 0 0 0 .5.5 5.5 5.5 0 0 0 5.5-5.5Z" />
 </svg>

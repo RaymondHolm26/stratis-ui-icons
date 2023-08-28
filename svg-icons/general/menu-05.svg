@@ -1,3 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg"  fill="none" viewBox="0 0 24 24">
-  <path stroke="#000" stroke-linecap="round" stroke-width="2" d="M10.2 19.2h11.4M2.4 12h19.2M2.4 4.8h19.2"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+     fill="currentColor"
+     viewBox="0 0 24 24">
+    <path stroke="currentColor"
+          stroke-linecap="round"
+          stroke-width="2"
+          d="M10.2 19.2h11.4M2.4 12h19.2M2.4 4.8h19.2" />
 </svg>

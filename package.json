@@ -1,20 +1,18 @@
 {
-  "name": "stratis-icons",
+  "name": "stratis-ui-icons",
   "private": false,
-  "version": "1.0.1",
-  "type": "module",
-  "main": "index.mjs",
+  "version": "1.5.1",
   "scripts": {
-    "dev": "npm run vite",
+    "dev": "npm run && vite",
     "build": "npm run build:lib && vite build",
     "build:lib": "npm run copy-library-assets",
     "preview": "npm run build && vite preview",
-    "transform-icons": "svg-to-ts-files",
+    "transform-icons": "svg-to-ts",
     "copy-library-assets": "cpx package.json dist/icons && cpx README.md dist/icons"
   },
   "devDependencies": {
     "cpx": "^1.5.0",
-    "svg-to-ts": "^10.0.0",
+    "svg-to-ts": "^6.0.1",
     "vite": "^4.1.0"
   },
   "repository": {
